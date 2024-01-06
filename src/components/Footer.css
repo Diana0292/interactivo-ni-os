@@ -1,0 +1,15 @@
+.footer{
+    background-color: blueviolet;   
+    display: flex;
+    flex-direction: column;
+    gap: 0,2rem;
+}
+.momentos{
+    text-align: center;
+}
+.footer-lista{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    justify-content: space-between;
+}
